@@ -1,0 +1,18 @@
+Intermediate Data Modeling In Power BI.
+
+1. Calender function
+2. Selectcolumns Function
+3. Custom Hierarchy 
+4. Cross Filtering
+5. Uni Dimension filtering and Bi Dimensional Filtering.
+
+
+6. Computed VS Calculated Column
+
+Computed: Create a new Column from existing Column (merging)
+Calculated: Create a new column using Dax .
+
+7. Calculated Column Are FASTER.
+8.
+
+
